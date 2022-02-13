@@ -1,6 +1,6 @@
 
 > # INSTRUCTION
-#### (*Please note that this project is still in development and will be updated in time*)
+> #### (*Please note that this project is still in development and will be updated in time*)
 >
 >> ## Do install the following using poetry environment by using *poetry add* command
 >> - django==4.0 *poetry add django==4.0*
